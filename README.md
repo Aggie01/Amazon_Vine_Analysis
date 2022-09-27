@@ -26,7 +26,7 @@ Tabulated results:
 
 
 Tabulated results:
-![](comparison_vine_vs_not_percentage.png)
+![](total_comparison_vine_vs_not.png)
 
 
 ## Suggestions:
