@@ -17,6 +17,6 @@ Analysis of Amazon reviews, **vine (paid)** and **non-vine (unpaid)** reveals th
 - Of the **total vine**, 454 are 5-star which make 42% of the total number.
 - The **majority** of the total number of reviews **belongs to non-vine reviews, N=23034.**
 
-![](Candidates%20election%20results.png)
+![](comparison_vine_vs_not_percentage.png)
 
 ## Summary:
