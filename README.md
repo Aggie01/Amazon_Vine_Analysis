@@ -42,3 +42,5 @@ TO DO
 
 
 ## Suggestions:
+Further analysis of electronics review section is performed.  "What kind of electronics get the most positive vs most negative reviews?"  This can be from AirPods, IPads to TVs and speakers.  "Product_Id" and "product_category" variables should provide some strong insights.  
+Customers rely largely on products reviews to make up their minds for better decision making on purchases; therefore, it is strongly suggested that more specific information about the product category is analyzed.  This can be done based on the the total_votes.
