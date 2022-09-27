@@ -33,7 +33,7 @@ Type of reviews:
 ![](comparison_vine_vs_not_percentage.png)
 
 ## Summary:
-It can be concluded that there was no positive bias from the Vine reviews. The proportion of Vine vs Non-Vine votes is about the same for 5-star. In other words, paid reviews do not guarantee/gear toward positive opinions.  Vine memebers post unbiased opinion and compenstation does not guarantee a positive review.  
+It is concluded that there was no positive bias from the Vine reviews. The proportion of Vine vs Non-Vine votes is about the same for 5-star. In other words, paid reviews do not guarantee/gear toward positive opinions.  Vine memebers post unbiased opinion and compenstation does not guarantee a positive review.  
 
 
 ## Suggestions:
