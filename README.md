@@ -13,5 +13,6 @@ Analyze Amazon reviews, written by the paid Amazon Vine program members, in orde
 
 ## Results:
 
+![](Candidates%20election%20results.png)
 
 ## Summary:
