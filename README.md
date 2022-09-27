@@ -18,7 +18,7 @@
 ## Results:
 Analysis of Amazon reviews, **vine (paid)** vs **non-vine (unpaid)** reveals the following:
 - Based on the **total customer number** of reviews there are N=18,512 vine and N=3075,148 non-vine reviews.  
-- Of the **total vine**, 8044 are 5-star which make over 43% of the total customer number.
+- Of the **total vine**, 8,044 are 5-star which make over 43% of the total customer number.
 - The **majority** of the total number of reviews **belongs to non-vine reviews.**
 - Non-vine reviews make over 46% of the total number.
 
