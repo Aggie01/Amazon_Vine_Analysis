@@ -1,10 +1,10 @@
 # Amazon_Vine_Analysis
-
+------
+------
 ## Overview:
-- SellBy wants to know how the reviews of their products compare to the reviews of similar products sold by the competitors.
+- **SellBy** wants to know how the reviews of their products compare to the reviews of similar products sold by the competitors.
 - **Vine** is the review that was written as part of the Vine program (paid).
 - **Non-vine** review was not part of the program (unpaid).
-
 
 
 ## Purpose:
@@ -27,7 +27,8 @@ Tabulated results:
 ![](comparison_vine_vs_not_percentage.png)
 
 ## Summary:
-
+------
+TO DO
 
 Tabulated results:
 ![](total_comparison_vine_vs_not.png)
