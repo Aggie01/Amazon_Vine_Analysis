@@ -3,6 +3,8 @@
 ------
 ## Overview:
 - **SellBy** wants to know how the reviews of their products compare to the reviews of similar products sold by the competitors.
+
+Type of reviews:
 - **Vine** is the review that was written as part of the Vine program (paid).
 - **Non-vine** review was not part of the program (unpaid).
 
